@@ -13,9 +13,7 @@ Aqui serão organizadas todas as entregas práticas da disciplina, garantindo **
 
 ---
 
-## 🔹 TP1 – Avaliação de Sistema
-
-📂 Pasta: [TP1-IHC/](TP1-IHC/)  
+## 🔹 TP1 – Avaliação de Sistema 
 
 O **Trabalho Prático 1 (TP1)** tem como objetivo **avaliar um sistema computacional interativo** sob três perspectivas:  
 **Usabilidade, Experiência do Usuário (UX) e Comunicabilidade**.
@@ -28,7 +26,7 @@ O **Trabalho Prático 1 (TP1)** tem como objetivo **avaliar um sistema computaci
 - **Avaliação de Comunicabilidade** (Método MAC)  
 - **Conclusões e Reflexões Individuais**
 
-👉 Todo o conteúdo está organizado dentro da pasta [TP1-IHC/](TP1-IHC/).  
+📂 Acesse a pasta: [TP1-IHC/](TP1-IHC/).  
 
 ---
 
