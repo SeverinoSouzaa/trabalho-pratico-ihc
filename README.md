@@ -26,7 +26,7 @@ O **Trabalho Prático 1 (TP1)** tem como objetivo **avaliar um sistema computaci
 - **Avaliação de Comunicabilidade** (Método MAC)  
 - **Conclusões e Reflexões Individuais**
 
-📂 Acesse a pasta: [TP1-IHC/](TP1-IHC/).  
+📂 Acesse a pasta: [TP1-IHC](TP1-IHC).  
 
 ---
 
