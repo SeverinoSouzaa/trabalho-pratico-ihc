@@ -30,7 +30,7 @@ O **Trabalho Prático 1 (TP1)** tem como objetivo **avaliar um sistema computaci
 
 ---
 
-## 👨‍👩‍👧‍👦 Equipe
+## 👥 Equipe
 
 | Código | Nome | Matrícula |
 |--------|----------------------|-----------|
