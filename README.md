@@ -1,4 +1,4 @@
-# 📚 Projetos – Interação Humano-Computador (UFAM)
+## 📚 Projetos – Interação Humano-Computador (UFAM)
 
 Repositório destinado aos **Trabalhos Práticos (TPs)** da disciplina **Interação Humano-Computador (IHC)**, ICET/UFAM.  
 Aqui serão organizadas todas as entregas práticas da disciplina, garantindo **transparência, organização e rastreabilidade**.
