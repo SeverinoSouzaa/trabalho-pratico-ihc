@@ -8,8 +8,6 @@ Aqui serão organizadas todas as entregas práticas da disciplina, garantindo **
 ## 📑 Sumário
 
 - [TP1 – Avaliação de Sistema](#tp1--avaliação-de-sistema)
-- TP2 – (em breve)
-- TP3 – (em breve)
 
 ---
 
@@ -34,10 +32,11 @@ O **Trabalho Prático 1 (TP1)** tem como objetivo **avaliar um sistema computaci
 
 | Código | Nome | Matrícula |
 |--------|----------------------|-----------|
-| A1     | Nome do Integrante 1 | #9999999 |
-| A2     | Nome do Integrante 2 | #9999998 |
-| A3     | Nome do Integrante 3 | #9999997 |
-| A4     | Nome do Integrante 4 | #9999996 |
+| A1     | Amanda Silva | #9999999 |
+| A2     | Ana Caroline | #9999998 |
+| A3     | Marcos Menezes | #9999997 |
+| A4     | Severino Souza | #9999996 |
+| A5     | Valdecir Reis | #9999996 |
 
 ---
 
