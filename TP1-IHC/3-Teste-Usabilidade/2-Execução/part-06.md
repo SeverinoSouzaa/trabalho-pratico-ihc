@@ -15,7 +15,7 @@
 
 ---
 
-## 3. Questionário SUS — Participante P02
+## 3. Questionário SUS — Participante P06
 
 ### Respostas
 | Questão | Pergunta                                                                 | Resposta (1–5) |
@@ -44,7 +44,7 @@
 
 ---
 
-## 4. Perguntas Abertas — Participante P02
+## 4. Perguntas Abertas 
 
 1. **O que você mais gostou? Por quê?**  
    > Eu gosto das funcionalidades do sistema, facilita o dia dia burocrático de documentos, e 
