@@ -34,11 +34,10 @@ O ambiente a ser inspecionado serão suas versões Web e Mobile.
 ## 📘 Guia
 Os participantes receberão instruções claras antes de iniciar e assinarão o **TCLE**.
 
-PREPARAÇÃO 
 
 # 🛠️ Preparação do Teste de Usabilidade
 
-## ✅ Agenda Confirmada
+## Confirmar Agenda
 O teste foi agendado para data definida por cada inspetor, com a participação de 8 voluntários no total.
 
 ## 📝 TCLE
