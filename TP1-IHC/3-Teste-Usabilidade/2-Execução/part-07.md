@@ -16,7 +16,7 @@
 
 ---
 
-## 3. Questionário SUS — Participante P02
+## 3. Questionário SUS — Participante P07
 
 ### Respostas
 | Questão | Pergunta                                                                 | Resposta (1–5) |
@@ -45,7 +45,7 @@
 
 ---
 
-## 4. Perguntas Abertas — Participante P02
+## 4. Perguntas Abertas 
 
 1. **O que você mais gostou? Por quê?**  
    > Gostei da aparência simples e das cores do site, porque me passou uma sensação de organização.
