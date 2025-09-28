@@ -43,6 +43,7 @@
 - **Pontuação final:** (4 + 8) × 2,5 = **30**  
 
 📌 Interpretação: Usabilidade abaixo da média.
+
 ---
 
 ## 💬 Perguntas Abertas — Participante P01
