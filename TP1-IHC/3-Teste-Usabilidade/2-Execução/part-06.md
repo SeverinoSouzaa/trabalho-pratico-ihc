@@ -1,4 +1,4 @@
-# 📊 Registro por tarefa e por participante
+# 📊 Registro do Participante
 
 | ID Part. | Tarefa | Tempo (s) | Resultado (✓/!/✗) | Dificuldade (1–5) | Nº Erros | Nº Pedidos de Ajuda | Observações |
 |----------|---------|-----------|--------------------|-------------------|----------|----------------------|-------------|
