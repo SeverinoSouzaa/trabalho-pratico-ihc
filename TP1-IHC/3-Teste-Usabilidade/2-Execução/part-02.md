@@ -17,4 +17,4 @@
 
 ## 📷 Foto do participante realizando o teste
 
-![Foto Participante 1]() 
+![Foto Participante 1](https://github.com/user-attachments/assets/080b2733-ab0f-4b0a-a173-4b7152265eff) 
