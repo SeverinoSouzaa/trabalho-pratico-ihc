@@ -46,7 +46,7 @@
 
 ---
 
-## 💬 Perguntas Abertas — Participante P01
+## 💬 Perguntas Abertas
 
 1. **O que você mais gostou? Por quê?**  
    > Gostei do certificado de vacinação, foi rápido de achar.
