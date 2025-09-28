@@ -15,6 +15,6 @@
 
 ---
 
-## Foto do participante realizando o teste
+## 📷 Foto do participante realizando o teste
 
 ![Foto Participante 1]() 
