@@ -46,7 +46,7 @@
 
 ---
 
-## 💬 Perguntas Abertas — Participante P01
+## 💬 Perguntas Abertas
 
 1. **O que você mais gostou? Por quê?**  
    > Gostei bastante do acesso as informações sobre vacina, mesmo com certa dificuldade, pois é algo interessante que o sistema possui  
