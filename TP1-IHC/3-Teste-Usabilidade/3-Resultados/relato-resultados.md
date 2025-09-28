@@ -1,9 +1,29 @@
 # 📈 Resultados do Teste de Usabilidade
 
 Esta pasta contém a documentação consolidada da segunda avaliação, incluindo:
+- Resumo por participante.
 - Análise quantitativa das tarefas.
 - Resultados do questionário SUS.
 - Mapeamento das respostas abertas dos participantes.
+
+# 📋 Resumo por Participante
+
+Esta tabela apresenta o resumo de desempenho e percepção de cada participante do teste.
+
+| ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas ✗ | Tempo total (s) | SUS (0–100) |
+|----------|-------------|-----------|---------------------|----------|-----------------|-------------|
+| P01      | 10          |           |                     |          |                 |             |
+| P02      | 10          |           |                     |          |                 |             |
+| P03      | 10          |           |                     |          |                 |             |
+| P04      | 10          |           |                     |          |                 |             |
+| P05      | 10          |           |                     |          |                 |             |
+| P06      | 10          |           |                     |          |                 |             |
+| P07      | 10          |           |                     |          |                 |             |
+| P08      | 10          |           |                     |          |                 |             |
+
+
+---
+
 
 # 📊 Consolidação Geral das Tarefas
 
