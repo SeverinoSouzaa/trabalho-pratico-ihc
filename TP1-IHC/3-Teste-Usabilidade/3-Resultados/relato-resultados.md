@@ -104,10 +104,6 @@ Além do SUS, os participantes responderam a 3 perguntas abertas sobre o sistema
 
 ---
 
-## 📌 Síntese das Respostas
-- **Pontos fortes identificados:**  
-- **Principais fragilidades apontadas:**  
-- **Sugestões recorrentes:**  
 
 
 
