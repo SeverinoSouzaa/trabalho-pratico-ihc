@@ -48,16 +48,16 @@
 ## 4. Perguntas Abertas — Participante P02
 
 1. **O que você mais gostou? Por quê?**  
-   > Gostei de ter vários serviços disponíveis em um só lugar, porque facilita não precisar acessar outros sites.
-Fator: Flexibilidade e eficiência de uso.  
+   > Gostei da aparência simples e das cores do site, porque me passou uma sensação de organização.
+Fator: Estética e design minimalista.
 
 2. **O que mais dificultou o uso? Em que momento?**  
-   > Na hora de recuperar a senha, fui redirecionado para o aplicativo sem aviso. Isso me confundiu.
-Fator: Reconhecer, diagnosticar e se recuperar de erros / Visibilidade do status do sistema. 
+   > Na hora de fazer login, o site travou e demorou a carregar. Isso me deixou confusa em querer saber se o site estava funcionando.
+Fator: Eficiência e visibilidade do status do sistema. 
 
 3. **Se pudesse mudar uma coisa, o que mudaria?**  
-   > Eu melhoraria a busca, porque os resultados não aparecem de forma clara e tenho que tentar várias palavras-chave.
-Fator: Reconhecimento em vez de lembrança.  
+   > Eu mudaria a forma de navegação, porque às vezes me perco tentando encontrar os serviços.
+Fator: Controle e liberdade do usuário / Consistência e padrões  
 
 ---
 
