@@ -44,15 +44,7 @@ Este documento apresenta a consolidação das execuções de todos os participan
 | T10    |                     |                        |           |                 |              |            |
 
 ---
-
-## 📌 Análise Quantitativa
-- **Taxa de sucesso média geral:**  
-- **Tempo médio total:**  
-- **Principais dificuldades encontradas:**  
-- **Padrões de erro recorrentes:**  
-
-
----
+ 
 
 # 📝 Resultados do SUS (System Usability Scale)
 
