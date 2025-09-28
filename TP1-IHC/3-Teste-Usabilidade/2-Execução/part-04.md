@@ -45,7 +45,7 @@
 
 ---
 
-## 💬 Perguntas Abertas — Participante P01
+## 💬 Perguntas Abertas
 
 1. **O que você mais gostou? Por quê?**  
    > Gostei que algumas coisas foram bem diretas. O certificado da vacina, por exemplo, foi só entrar e baixar. A assinatura digital também, depois que achei, funcionou de primeira.  
