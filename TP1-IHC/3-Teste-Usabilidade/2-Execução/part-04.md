@@ -14,3 +14,7 @@
 | P01      | Emitir a Certidão Negativa de Débitos da Receita Federal.   |           |                        |                   |          |                     |             |
 
 ---
+
+## 📷 Foto do participante realizando o teste
+
+![Foto Participante 1]() 
