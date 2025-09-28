@@ -16,4 +16,5 @@
 ---
 
 ## Foto do participante
-A foto do participante foi armazenada na pasta de evidências:  
+
+![Print da reunião]() 
