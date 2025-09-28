@@ -16,44 +16,53 @@
 
 ---
 
-## 3. Questionário SUS — P04
+## 3. Questionário SUS — Participante P02
+
 ### Respostas
-| Q | Pergunta | Resp. (1–5) |
-|---|----------|-------------|
-| 1 | Usaria este sistema com frequência. | 2 |
-| 2 | Achei o sistema desnecessariamente complexo. | 3 |
-| 3 | Achei o sistema fácil de usar. | 2 |
-| 4 | Precisaria de ajuda técnica. | 4 |
-| 5 | Funções bem integradas. | 2 |
-| 6 | Há muita inconsistência. | 3 |
-| 7 | A maioria aprenderia rápido. | 2 |
-| 8 | Sistema muito complicado. | 3 |
-| 9 | Me senti confiante usando. | 2 |
-| 10| Precisei aprender várias coisas antes de usar. | 2 |
+| Questão | Pergunta                                                                 | Resposta (1–5) |
+|---------|---------------------------------------------------------------------------|----------------|
+| Q1      | Eu acho que usaria este sistema com frequência.                          | 3              |
+| Q2      | Eu achei o sistema desnecessariamente complexo.                          | 4              |
+| Q3      | Eu achei o sistema fácil de usar.                                        | 1              |
+| Q4      | Eu acho que precisaria de ajuda de uma pessoa com conhecimentos técnicos | 4              |
+| Q5      | Eu acho que as várias funções do sistema estão bem integradas.           | 2              |
+| Q6      | Eu acho que há muita inconsistência no sistema.                          | 4              |
+| Q7      | Eu imagino que a maioria das pessoas aprenderia a usar este sistema rápido | 2            |
+| Q8      | Eu achei o sistema muito complicado de usar.                             | 4          |
+| Q9      | Eu me senti muito confiante usando o sistema.                            | 2              |
+| Q10     | Eu precisei aprender várias coisas antes de conseguir usar o sistema.    | 4            |
 
-**Pontuação final SUS:** 55 → Usabilidade aceitável, mas com melhorias necessárias.
+### Cálculo SUS
+- **Itens ímpares (Q1, Q3, Q5, Q7, Q9):**  
+  (3 + 1 + 2 + 2 + 2) = 10 → 10 - 5 = 5  
 
----
+- **Itens pares (Q2, Q4, Q6, Q8, Q10):**  
+  (4 + 4 + 4 + 4 + 4) = 20 → 25 - 20 = 5  
 
-## 4. Perguntas abertas — P04
-1. **O que você mais gostou?**  
-   > Gostei de ter vários serviços em um só lugar, não precisei abrir outros sites.  
-   *(Flexibilidade e eficiência de uso)*  
+- **Pontuação final:** (5 + 5) × 2,5 = **25**
 
-2. **O que mais dificultou?**  
-   > Na recuperação de senha, fui redirecionada pro app sem aviso.  
-   *(Visibilidade do status / recuperação de erros)*  
-
-3. **O que mudaria?**  
-   > Melhoraria a busca, os resultados não aparecem claros, precisei tentar várias palavras-chave.  
-   *(Reconhecimento em vez de lembrança)*  
+📌 Interpretação: Usabilidade considerada **baixa** para este participante.
 
 ---
 
-## 5. Foto
-📷 🔗 [Foto do participante P04](../../evidencias/P04-foto.png)
+## 4. Perguntas Abertas — Participante P02
+
+1. **O que você mais gostou? Por quê?**  
+   > Gostei de ter vários serviços disponíveis em um só lugar, porque facilita não precisar acessar outros sites.
+Fator: Flexibilidade e eficiência de uso.  
+
+2. **O que mais dificultou o uso? Em que momento?**  
+   > Na hora de recuperar a senha, fui redirecionado para o aplicativo sem aviso. Isso me confundiu.
+Fator: Reconhecer, diagnosticar e se recuperar de erros / Visibilidade do status do sistema.
+
+3. **Se pudesse mudar uma coisa, o que mudaria?**  
+   > Eu melhoraria a busca, porque os resultados não aparecem de forma clara e tenho que tentar várias palavras-chave.
+Fator: Reconhecimento em vez de lembrança.  
+
+---
 
 
 ## 📷 Foto do participante realizando o teste
 
-![Foto Participante 1]() 
+![Foto Participante 1](https://github.com/user-attachments/assets/3235b726-21bd-4429-a60b-f39ad87a2880)
+
