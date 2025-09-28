@@ -1,4 +1,4 @@
-# 📊 Registro do Participante P02
+# 📊 Registro do Participante 
 
 ## 1. Registro por tarefa
 | ID Part. | Tarefa | Tempo (s) | Resultado (✓ / ! / ✗) | Dificuldade (1–5) | Nº Erros | Nº Pedidos de Ajuda | Observações |
