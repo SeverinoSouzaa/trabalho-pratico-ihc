@@ -44,7 +44,7 @@
 
 ---
 
-## 💬 Perguntas Abertas — Participante P01
+## 💬 Perguntas Abertas 
 
 1. **O que você mais gostou? Por quê?**  
    > Gostei porque o site funciona bem no celular.  
