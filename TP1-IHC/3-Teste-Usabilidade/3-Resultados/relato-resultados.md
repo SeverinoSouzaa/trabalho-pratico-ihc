@@ -13,9 +13,9 @@ Esta tabela apresenta o resumo de desempenho e percepção de cada participante 
 | ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas ✗ | Tempo total (s) | SUS (0–100) |
 |----------|-------------|-----------|---------------------|----------|-----------------|-------------|
 | P01      | 10          |    8       |           3          |    2      |     21m            |    30,0         |
-| P02      | 10          |           |                     |          |                 |             |
-| P03      | 10          |           |                     |          |                 |             |
-| P04      | 10          |           |                     |          |                 |             |
+| P02      | 10          |     10      |       2              |     5     |      21m40s           |    70,0         |
+| P03      | 10          |    10       |       0              |     0     |      18m35s           |      85,0       |
+| P04      | 10          |     10      |   7                  | 7         |    26m30s             |     50,0        |
 | P05      | 10          |           |                     |          |                 |             |
 | P06      | 10          |           |                     |          |                 |             |
 | P07      | 10          |           |                     |          |                 |             |
