@@ -20,25 +20,25 @@
 ### Respostas
 | Questão | Pergunta                                                                 | Resposta (1–5) |
 |---------|---------------------------------------------------------------------------|----------------|
-| Q1      | Eu acho que usaria este sistema com frequência.                          | 2              |
-| Q2      | Eu achei o sistema desnecessariamente complexo.                          | 4              |
-| Q3      | Eu achei o sistema fácil de usar.                                        | 2              |
-| Q4      | Eu acho que precisaria de ajuda de uma pessoa com conhecimentos técnicos | 5              |
-| Q5      | Eu acho que as várias funções do sistema estão bem integradas.           | 3              |
+| Q1      | Eu acho que usaria este sistema com frequência.                          | 4              |
+| Q2      | Eu achei o sistema desnecessariamente complexo.                          | 5              |
+| Q3      | Eu achei o sistema fácil de usar.                                        | 3              |
+| Q4      | Eu acho que precisaria de ajuda de uma pessoa com conhecimentos técnicos | 3              |
+| Q5      | Eu acho que as várias funções do sistema estão bem integradas.           | 2              |
 | Q6      | Eu acho que há muita inconsistência no sistema.                          | 4              |
 | Q7      | Eu imagino que a maioria das pessoas aprenderia a usar este sistema rápido | 2            |
-| Q8      | Eu achei o sistema muito complicado de usar.                             | 5              |
+| Q8      | Eu achei o sistema muito complicado de usar.                             | 4            |
 | Q9      | Eu me senti muito confiante usando o sistema.                            | 2              |
-| Q10     | Eu precisei aprender várias coisas antes de conseguir usar o sistema.    | 4              |
+| Q10     | Eu precisei aprender várias coisas antes de conseguir usar o sistema.    | 3              |
 
 ### Cálculo SUS
 - **Itens ímpares (Q1, Q3, Q5, Q7, Q9):**  
-  (2 + 2 + 3 + 2 + 2) = 11 → 11 - 5 = 6  
+  (4 + 3 + 2 + 2 + 2) = 13 → 13 - 5 = 8  
 
 - **Itens pares (Q2, Q4, Q6, Q8, Q10):**  
-  (4 + 5 + 4 + 5 + 4) = 22 → 25 - 22 = 3  
+  (5 + 3 + 4 + 4 + 3) = 19 → 25 - 19 = 6  
 
-- **Pontuação final:** (6 + 3) × 2,5 = **22,5**
+- **Pontuação final:** (8 + 6) × 2,5 = **35**
 
 📌 Interpretação: Usabilidade considerada **baixa** para este participante.
 
@@ -47,13 +47,16 @@
 ## 4. Perguntas Abertas — Participante P02
 
 1. **O que você mais gostou? Por quê?**  
-   > A página inicial é bem organizada. E conseguir o certificado da vacina foi fácil.  
+   > Eu gosto das funcionalidades do sistema, facilita o dia dia burocrático de documentos, e 
+utilizo bastante pra assinar documentos.    
 
 2. **O que mais dificultou o uso? Em que momento?**  
-   > Não sabia direito onde tinha que clicar. Tinha muita informação e eu ficava com medo de fazer algo errado.  
+   > O sistema é confuso, em alguns momentos não consigo voltar para tela anterior e também 
+não é muito intuitivo tenho que adivinhar alguns botões,  
 
 3. **Se pudesse mudar uma coisa, o que mudaria?**  
-   > Eu mudaria a bagunça de ser um site diferente a cada clique. Tinha que ser tudo dentro do próprio gov.br, com a mesma cara.  
+   > Eu retiraria algumas informações desnecessárias e deixaria ele somente em aplicativo em 
+vez de abrir o navegador no celular.  
 
 ---
 
