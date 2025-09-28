@@ -15,6 +15,50 @@
 
 ---
 
+
+
+## 📝 Questionário SUS — Participante P01
+
+### Respostas
+| Questão | Pergunta                                                                 | Resposta (1–5) |
+|---------|---------------------------------------------------------------------------|----------------|
+| Q1      | Eu acho que usaria este sistema com frequência.                          | 3              |
+| Q2      | Eu achei o sistema desnecessariamente complexo.                          | 4              |
+| Q3      | Eu achei o sistema fácil de usar.                                        | 2              |
+| Q4      | Eu acho que precisaria de ajuda de uma pessoa com conhecimentos técnicos | 3              |
+| Q5      | Eu acho que as várias funções do sistema estão bem integradas.           | 2              |
+| Q6      | Eu acho que há muita inconsistência no sistema.                          | 4              |
+| Q7      | Eu imagino que a maioria das pessoas aprenderia a usar este sistema rápido | 1            |
+| Q8      | Eu achei o sistema muito complicado de usar.                             | 4              |
+| Q9      | Eu me senti muito confiante usando o sistema.                            | 1              |
+| Q10     | Eu precisei aprender várias coisas antes de conseguir usar o sistema.    | 2              |
+
+### Cálculo SUS
+- **Itens ímpares (Q1, Q3, Q5, Q7, Q9):**  
+  (3 + 2 + 2 + 1 + 1) = 9 → 9 - 5 = 4  
+
+- **Itens pares (Q2, Q4, Q6, Q8, Q10):**  
+  (4 + 3 + 4 + 4 + 2) = 17 → 25 - 17 = 8  
+
+- **Pontuação final:** (4 + 8) × 2,5 = **30**  
+
+📌 Interpretação: Usabilidade abaixo da média.
+---
+
+## 💬 Perguntas Abertas — Participante P01
+
+1. **O que você mais gostou? Por quê?**  
+   > Gostei bastante do acesso as informações sobre vacina, mesmo com certa dificuldade, pois é algo interessante que o sistema possui  
+
+2. **O que mais dificultou o uso? Em que momento?**  
+   > O sistema não possui opções de voltar clara, ao acessar um serviço acabei me perdendo pra retornar ao inicio.  
+
+3. **Se pudesse mudar uma coisa, o que mudaria?**  
+   > Colocaria atalhos de mais facíl acesso para serviços favoritos por exemplo  
+
+--
+
+
 ## 📷 Foto do participante realizando o teste
 
 ![Foto Participante 1](https://github.com/user-attachments/assets/637db54b-4b38-482e-9c4d-9e4eb7a89ec9) 
