@@ -17,4 +17,4 @@
 
 ## Foto do participante
 
-![Print da reunião]() 
+![Foto Participante 1]() 
