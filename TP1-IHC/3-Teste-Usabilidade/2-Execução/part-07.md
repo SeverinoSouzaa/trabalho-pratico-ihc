@@ -16,37 +16,48 @@
 
 ---
 
-## 3. Questionário SUS — P03
-### Respostas
-| Q | Pergunta | Resp. (1–5) |
-|---|----------|-------------|
-| 1 | Usaria este sistema com frequência. | 1 |
-| 2 | Achei o sistema desnecessariamente complexo. | 3 |
-| 3 | Achei o sistema fácil de usar. | 1 |
-| 4 | Precisaria de ajuda técnica. | 4 |
-| 5 | Funções bem integradas. | 1 |
-| 6 | Há muita inconsistência. | 3 |
-| 7 | A maioria aprenderia rápido. | 1 |
-| 8 | Sistema muito complicado. | 3 |
-| 9 | Me senti confiante usando. | 1 |
-| 10| Precisei aprender várias coisas antes de usar. | 3 |
+## 3. Questionário SUS — Participante P02
 
-**Pontuação final SUS:** 42,5 → Usabilidade baixa.
+### Respostas
+| Questão | Pergunta                                                                 | Resposta (1–5) |
+|---------|---------------------------------------------------------------------------|----------------|
+| Q1      | Eu acho que usaria este sistema com frequência.                          | 4              |
+| Q2      | Eu achei o sistema desnecessariamente complexo.                          | 5              |
+| Q3      | Eu achei o sistema fácil de usar.                                        | 3              |
+| Q4      | Eu acho que precisaria de ajuda de uma pessoa com conhecimentos técnicos | 3              |
+| Q5      | Eu acho que as várias funções do sistema estão bem integradas.           | 2              |
+| Q6      | Eu acho que há muita inconsistência no sistema.                          | 4              |
+| Q7      | Eu imagino que a maioria das pessoas aprenderia a usar este sistema rápido | 2            |
+| Q8      | Eu achei o sistema muito complicado de usar.                             | 4            |
+| Q9      | Eu me senti muito confiante usando o sistema.                            | 2              |
+| Q10     | Eu precisei aprender várias coisas antes de conseguir usar o sistema.    | 3              |
+
+### Cálculo SUS
+- **Itens ímpares (Q1, Q3, Q5, Q7, Q9):**  
+  (4 + 3 + 2 + 2 + 2) = 13 → 13 - 5 = 8  
+
+- **Itens pares (Q2, Q4, Q6, Q8, Q10):**  
+  (5 + 3 + 4 + 4 + 3) = 19 → 25 - 19 = 6  
+
+- **Pontuação final:** (8 + 6) × 2,5 = **35**
+
+📌 Interpretação: Usabilidade considerada **baixa** para este participante.
 
 ---
 
-## 4. Perguntas abertas — P03
-1. **O que você mais gostou?**  
-   > Gostei da aparência simples e das cores, passou sensação de organização.  
-   *(Estética e design minimalista)*  
+## 4. Perguntas Abertas — Participante P02
 
-2. **O que mais dificultou?**  
-   > O site travou no login e demorou a carregar, fiquei confusa se estava funcionando.  
-   *(Eficiência e visibilidade do status do sistema)*  
+1. **O que você mais gostou? Por quê?**  
+   > Eu gosto das funcionalidades do sistema, facilita o dia dia burocrático de documentos, e 
+utilizo bastante pra assinar documentos.    
 
-3. **O que mudaria?**  
-   > A forma de navegação, pois me perco tentando achar serviços.  
-   *(Controle e liberdade / Consistência e padrões)*  
+2. **O que mais dificultou o uso? Em que momento?**  
+   > O sistema é confuso, em alguns momentos não consigo voltar para tela anterior e também 
+não é muito intuitivo tenho que adivinhar alguns botões,  
+
+3. **Se pudesse mudar uma coisa, o que mudaria?**  
+   > Eu retiraria algumas informações desnecessárias e deixaria ele somente em aplicativo em 
+vez de abrir o navegador no celular.  
 
 ---
 
