@@ -86,9 +86,9 @@ A tabela abaixo apresenta as notas atribuídas.
 Além do SUS, os participantes responderam a 3 perguntas abertas sobre o sistema Gov.br.
 
 ## 📌 Perguntas Aplicadas
-1. O que você mais gostou no sistema?  
-2. O que você menos gostou no sistema?  
-3. Sugestões de melhoria.  
+1. O que você mais gostou? Por quê?  
+2. O que mais dificultou o uso? Em que momento? 
+3. Se pudesse mudar uma coisa, o que mudaria? 
 
 ## 📌 Tabela de Mapeamento das Respostas
 | Participante | P1 - Aspectos Positivos | P2 - Aspectos Negativos | P3 - Sugestões |
