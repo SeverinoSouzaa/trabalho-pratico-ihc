@@ -21,25 +21,25 @@
 ### Respostas
 | Questão | Pergunta                                                                 | Resposta (1–5) |
 |---------|---------------------------------------------------------------------------|----------------|
-| Q1      | Eu acho que usaria este sistema com frequência.                          | 4              |
-| Q2      | Eu achei o sistema desnecessariamente complexo.                          | 5              |
-| Q3      | Eu achei o sistema fácil de usar.                                        | 3              |
-| Q4      | Eu acho que precisaria de ajuda de uma pessoa com conhecimentos técnicos | 3              |
+| Q1      | Eu acho que usaria este sistema com frequência.                          | 2              |
+| Q2      | Eu achei o sistema desnecessariamente complexo.                          | 4              |
+| Q3      | Eu achei o sistema fácil de usar.                                        | 1              |
+| Q4      | Eu acho que precisaria de ajuda de uma pessoa com conhecimentos técnicos | 5              |
 | Q5      | Eu acho que as várias funções do sistema estão bem integradas.           | 2              |
 | Q6      | Eu acho que há muita inconsistência no sistema.                          | 4              |
 | Q7      | Eu imagino que a maioria das pessoas aprenderia a usar este sistema rápido | 2            |
 | Q8      | Eu achei o sistema muito complicado de usar.                             | 4            |
 | Q9      | Eu me senti muito confiante usando o sistema.                            | 2              |
-| Q10     | Eu precisei aprender várias coisas antes de conseguir usar o sistema.    | 3              |
+| Q10     | Eu precisei aprender várias coisas antes de conseguir usar o sistema.    | 4            |
 
 ### Cálculo SUS
 - **Itens ímpares (Q1, Q3, Q5, Q7, Q9):**  
-  (4 + 3 + 2 + 2 + 2) = 13 → 13 - 5 = 8  
+  (2 + 1 + 2 + 2 + 2) = 9 → 9 - 5 = 4  
 
 - **Itens pares (Q2, Q4, Q6, Q8, Q10):**  
-  (5 + 3 + 4 + 4 + 3) = 19 → 25 - 19 = 6  
+  (4 + 5 + 4 + 4 + 4) = 21 → 25 - 21 = 4  
 
-- **Pontuação final:** (8 + 6) × 2,5 = **35**
+- **Pontuação final:** (4 + 4) × 2,5 = **20**
 
 📌 Interpretação: Usabilidade considerada **baixa** para este participante.
 
@@ -48,19 +48,20 @@
 ## 4. Perguntas Abertas — Participante P02
 
 1. **O que você mais gostou? Por quê?**  
-   > Eu gosto das funcionalidades do sistema, facilita o dia dia burocrático de documentos, e 
-utilizo bastante pra assinar documentos.    
+   > Gostei de ter vários serviços disponíveis em um só lugar, porque facilita não precisar acessar outros sites.
+Fator: Flexibilidade e eficiência de uso.  
 
 2. **O que mais dificultou o uso? Em que momento?**  
-   > O sistema é confuso, em alguns momentos não consigo voltar para tela anterior e também 
-não é muito intuitivo tenho que adivinhar alguns botões,  
+   > Na hora de recuperar a senha, fui redirecionado para o aplicativo sem aviso. Isso me confundiu.
+Fator: Reconhecer, diagnosticar e se recuperar de erros / Visibilidade do status do sistema. 
 
 3. **Se pudesse mudar uma coisa, o que mudaria?**  
-   > Eu retiraria algumas informações desnecessárias e deixaria ele somente em aplicativo em 
-vez de abrir o navegador no celular.  
+   > Eu melhoraria a busca, porque os resultados não aparecem de forma clara e tenho que tentar várias palavras-chave.
+Fator: Reconhecimento em vez de lembrança.  
 
 ---
 
 ## 📷 Foto do participante realizando o teste
 
-![Foto Participante 1]() 
+![Foto Participante 1](https://github.com/user-attachments/assets/30c8369c-ca87-4a76-ab6b-c2018f77ec68)
+
