@@ -29,19 +29,18 @@ Esta tabela apresenta o resumo de desempenho e percepção de cada participante 
 
 Este documento apresenta a consolidação das execuções de todos os participantes.
 
-## 📌 Tabela de Consolidação
-| Tarefa | Taxa de Sucesso (%) | Sucesso com ajuda! (%) | Faxas (%) | Tempo Médio (s) | Erros Médios | Ajuda Média| 
-|--------|---------------------|------------------------|-----------|---------------- |--------------|------------|
-| T1     |                     |                        |           |                 |              |            |
-| T2     |                     |                        |           |                 |              |            |
-| T3     |                     |                        |           |                 |              |            |
-| T4     |                     |                        |           |                 |              |            |
-| T5     |                     |                        |           |                 |              |            |
-| T6     |                     |                        |           |                 |              |            |
-| T7     |                     |                        |           |                 |              |            |
-| T8     |                     |                        |           |                 |              |            |
-| T9     |                     |                        |           |                 |              |            |
-| T10    |                     |                        |           |                 |              |            |
+| Tarefa | Taxa de Sucesso (%) | Sucesso sem ajuda (%) | Sucesso com ajuda (%) | Falhas (%) | Tempo Médio (s) | Erros Médios | Ajuda Média |
+|--------|----------------------|------------------------|-----------------------|------------|-----------------|--------------|-------------|
+| T1 - Acesse o site Gov.br e tente realizar o login com CPF e senha.     | 100.0%              | 100.0%                | 0.0%                  | 0.0%       | 47.0s           | 0.25         | 0.00        |
+| T2 - Simule a situação de esquecimento da senha e tente recuperá-la.    | 100.0%              | 12.5%                 | 87.5%                 | 0.0%       | 215.1s          | 0.88         | 0.88        |
+| T3 - Assinar digitalmente um documento no Gov.br.    | 87.5%               | 50.0%                 | 37.5%                 | 12.5%      | 176.0s          | 0.75         | 0.63        |
+| T4 - Emitir o “Comprovante de Inscrição no CPF”.     | 100.0%              | 62.5%                 | 37.5%                 | 0.0%       | 170.3s          | 1.13         | 0.75        |
+| T5 - Atualizar um dado pessoal simples.     | 100.0%              | 87.5%                 | 12.5%                 | 0.0%       | 83.3s           | 0.13         | 0.13        |
+| T6 - Navegar até a área de serviços acessados.    | 87.5%               | 62.5%                 | 25.0%                 | 12.5%      | 118.3s          | 1.00         | 0.38        |
+| T7 - Baixar o “Certificado de Vacinação Covid-19”.     | 100.0%              | 62.5%                 | 37.5%                 | 0.0%       | 158.5s          | 0.63         | 0.25        |
+| T8 - Localizar informações sobre Bolsa Família/Auxílio Brasil.    | 100.0%              | 62.5%                 | 37.5%                 | 0.0%       | 150.4s          | 1.00         | 0.75        |
+| T9 - Solicitar a Prova de Regularidade Eleitoral.    | 75.0%               | 12.5%                 | 62.5%                 | 25.0%      | 171.0s          | 1.25         | 1.38        |
+| T10 - Emitir a Certidão Negativa de Débitos da Receita Federal.    | 75.0%               | 25.0%                 | 50.0%                 | 25.0%      | 180.0s          | 1.25         | 0.50        |
 
 ---
  
@@ -54,14 +53,14 @@ A tabela abaixo apresenta as notas atribuídas.
 ## 📌 Tabela SUS
 | Participante | Pontuação SUS (0–100)  |
 |--------------|------------------------|
-| P01          |                        |
-| P02          |                        |
-| P03          |                        |
-| P04          |                        |
-| P05          |                        |
-| P06          |                        |
-| P07          |                        |
-| P08          |                        |
+| P01          |        30,0                |
+| P02          |         72,5               |
+| P03          |         52,5               |
+| P04          |            50,0            |
+| P05          |            22,5            |
+| P06          |            35,0            |
+| P07          |             20,0           |
+| P08          |               25,0         |
 
 ---
 
