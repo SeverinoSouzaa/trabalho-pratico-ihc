@@ -40,9 +40,3 @@ O **Trabalho Prático 1 (TP1)** tem como objetivo **avaliar um sistema computaci
 
 ---
 
-## 📅 Datas Importantes
-
-- **Entrega no GitHub:** até 29/09/2025, 12h  
-- **Apresentações:** 29/09 e 01/10 (15–20 minutos por equipe)
-
----
