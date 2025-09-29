@@ -41,7 +41,9 @@ A seguir, apresentamos a tela inicial do **Gov.br** em sua versão Web, onde o u
 - Muitos serviços exigem **nível de conta Prata ou Ouro**, o que demanda validação adicional.  
 - Pode redirecionar para outros sistemas vinculados (ex.: Receita Federal, INSS), alterando a interface.
 
-  # Perfil dos Usuários
+---
+
+# Perfil dos Usuários
 
 ## Usuários-alvo
 - **Cidadãos brasileiros em geral**: estudantes, trabalhadores, aposentados, empresários e servidores públicos.  
