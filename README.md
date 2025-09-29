@@ -30,13 +30,13 @@ O **Trabalho Prático 1 (TP1)** tem como objetivo **avaliar um sistema computaci
 
 ## 👥 Equipe
 
-| Código | Nome | Matrícula |
-|--------|----------------------|-----------|
-| A1     | Amanda Silva | #9999999 |
-| A2     | Ana Caroline | #9999998 |
-| A3     | Marcos Menezes | #9999997 |
-| A4     | Severino Souza | #9999996 |
-| A5     | Valdecir Reis | #9999996 |
+| Código | Nome             |
+|--------|------------------|
+| A1     | Amanda Silva     | 
+| A2     | Ana Caroline     | 
+| A3     | Marcos Menezes   |
+| A4     | Severino Souza   |
+| A5     | Valdecir Reis    |
 
 ---
 
