@@ -81,17 +81,19 @@ Além do SUS, os participantes responderam a 3 perguntas abertas sobre o sistema
 2. O que mais dificultou o uso? Em que momento? 
 3. Se pudesse mudar uma coisa, o que mudaria? 
 
-## 📌 Tabela de Mapeamento das Respostas
-| Participante | P1 - Aspectos Positivos | P2 - Aspectos Negativos | P3 - Sugestões |
-|--------------|--------------------------|--------------------------|----------------|
-| P01          |                          |                          |                |
-| P02          |                          |                          |                |
-| P03          |                          |                          |                |
-| P04          |                          |                          |                |
-| P05          |                          |                          |                |
-| P06          |                          |                          |                |
-| P07          |                          |                          |                |
-| P08          |                          |                          |                |
+# 📝 Mapeamento de Respostas Abertas (Dificuldades) a Fatores de Usabilidade
+
+| ID Part. | Trecho da Resposta                                                                 | Fator de Usabilidade                          |
+|----------|------------------------------------------------------------------------------------|----------------------------------------------|
+| P01      | O sistema não possui opções de voltar clara, acabei me perdendo para retornar ao início | Controle e liberdade do usuário               |
+| P02      | Foi difícil na hora de recuperar a senha                                           | Prevenção de erros / Apoio à recuperação      |
+| P03      | Achei confuso para emitir a certidão negativa                                      | Clareza e eficácia                            |
+| P04      | O pior foi o sistema me jogar pra outros sites o tempo todo                        | Consistência e padrões                        |
+| P05      | Não sabia direito onde tinha que clicar, muita informação, medo de errar           | Prevenção de erros / Aprendizado              |
+| P06      | O sistema é confuso, não consigo voltar e tenho que adivinhar botões               | Controle e liberdade do usuário / Prevenção   |
+| P07      | Na hora de fazer login, o site travou e demorou a carregar                         | Eficiência / Visibilidade do status do sistema|
+| P08      | Na hora de recuperar a senha, fui redirecionado para o app sem aviso               | Visibilidade do status / Recuperação de erros |
+
 
 ---
 
