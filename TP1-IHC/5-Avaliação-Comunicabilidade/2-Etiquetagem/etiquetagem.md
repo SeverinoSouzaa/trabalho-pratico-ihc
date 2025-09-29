@@ -21,8 +21,6 @@
 
 ---
 
-## 📊 Consolidação das Etiquetas (Participante U1)
-
 ## 📊 Consolidação das Etiquetas (U1 + U2)
 
 | Etiqueta         | Ocorrências (U1) | Ocorrências (U2) | Total | Tarefas mais afetadas|
