@@ -18,8 +18,10 @@ O sistema tem como propósito:
 - Facilitar autenticação e assinatura de documentos digitais.
 
 ## Imagem representativa
-*(Inserir aqui um print da tela inicial do Gov.br ou o logotipo oficial, com legenda explicativa)*
 
+A seguir, apresentamos a tela inicial do **Gov.br** em sua versão Web, onde o usuário tem acesso direto a serviços recomendados, mais acessados e destaques:
+
+![Imagem representativa](https://github.com/user-attachments/assets/4ab24472-6a04-45ef-948d-9a71e40a3c83)
 ---
 
 # Funcionalidades Principais
