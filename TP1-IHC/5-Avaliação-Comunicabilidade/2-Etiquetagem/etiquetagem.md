@@ -14,13 +14,6 @@
 | 05:15     | Pra mim está bom! | Achou as informações suficientes            | Usuário satisfeito parcialmente com resultado |
 | 05:43     | E agora?      | Dúvida de navegação                             | Falta de orientação sobre próximos passos |
 | 06:28     | E agora?      | Dúvida das opções                               | Opções pouco claras gerando incerteza |
-
----
-
-## Participante U2
-
-| Timestamp | Etiqueta       | Trecho observado / Contexto                      | Interpretação |
-|-----------|---------------|--------------------------------------------------|---------------|
 | 08:09     | Onde estou?   | Incerteza se está na tela certa                  | Falta de clareza na navegação |
 | 08:43     | E agora?      | Informação pouco clara                           | Sistema não fornece feedback adequado |
 | 09:00     | O que é isto? | Confusão sobre opção correta                     | Falta de consistência ou explicação das opções |
