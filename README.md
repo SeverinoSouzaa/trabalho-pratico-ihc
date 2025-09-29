@@ -40,3 +40,23 @@ O **Trabalho Prático 1 (TP1)** tem como objetivo **avaliar um sistema computaci
 
 ---
 
+## 📋 Apresentação do Grupo e Distribuição das Tarefas
+
+Este documento apresenta os **integrantes do grupo** e a **distribuição das tarefas** ao longo do trabalho, conforme solicitado.
+
+Toda a alocação de atividades, carga horária de cada membro e registro detalhado da participação está organizada em uma tabela no **Notion**:
+
+🔗 [Clique aqui para acessar a tabela de Distribuição das Tarefas no Notion](https://www.notion.so/Apresenta-o-do-grupo-e-distribui-o-das-tarefas-27dfb754c1f6805ab03dd71f93a292d2?source=copy_link)
+
+---
+
+## Estrutura da Organização
+
+- **Identificação dos Integrantes** (nome)  
+- **Lista de Tarefas** (T1 a T7, conforme etapas do trabalho)  
+- **Tabela de Distribuição** (carga horária por dia, preenchida no Notion)  
+
+---
+
+📌 Esta seção funciona como **registro oficial do grupo**, servindo como introdução e preparação para as avaliações subsequentes.
+
