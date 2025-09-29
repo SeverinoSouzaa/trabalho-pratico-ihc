@@ -15,7 +15,7 @@ Vídeo referente à sessão do primeiro participante, onde foram observadas rupt
 ## 📌 Participante 2
 Vídeo referente à sessão do segundo participante, onde foram observadas rupturas de comunicação adicionais, complementando os achados do primeiro participante.  
 
-➡️ [Assistir ao vídeo do Participante 2](https://youtu.be/puQzp4Cr7Rc)
+➡️ [Assistir ao vídeo do Participante 2](https://youtu.be/dN65jRMpuXE)
 
 ---
 
