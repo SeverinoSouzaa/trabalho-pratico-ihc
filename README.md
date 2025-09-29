@@ -60,3 +60,11 @@ Toda a alocação de atividades, carga horária de cada membro e registro detalh
 
 📌 Esta seção funciona como **registro oficial do grupo**, servindo como introdução e preparação para as avaliações subsequentes.
 
+---
+
+## 🎥 Apresentações
+
+Link para a apresentação oficial no Canva:
+
+[🔗 Acessar Apresentação ](https://www.canva.com/design/DAG0X1Ygv5A/ZvgpxTmpFO8ftdEz21TjbQ/edit?utm_content=DAG0X1Ygv5A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
