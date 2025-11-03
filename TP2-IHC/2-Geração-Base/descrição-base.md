@@ -36,7 +36,7 @@ O objetivo é permitir a análise supervisionada das emoções a partir das mét
 
 ## 2.3 Estrutura e Equilíbrio da Base
 
-A base será **balanceada**, com leve destaque para a classe *motivado*, simulando jogadores mais engajados.
+A base é **balanceada**, com leve destaque para a classe *motivado*, simulando jogadores mais engajados.
 
 | Classe | Quantidade de Instâncias |
 |---------|---------------------------|
