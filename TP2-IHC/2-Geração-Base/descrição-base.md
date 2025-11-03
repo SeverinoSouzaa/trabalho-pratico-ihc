@@ -60,4 +60,4 @@ Os dados foram gerados com auxílio de um LLM e ajustados para evitar sobreposi�
 Esta base sintética representa uma **simulação realista do comportamento de jogadores** sob diferentes condições emocionais.  
 Seu formato padronizado em `.arff` facilita a exploração posterior no Weka, onde serão aplicados algoritmos de classificação supervisionada.
 
-> 🔹 A próxima etapa abordará a exploração da base e os experimentos realizados no Weka.
+
