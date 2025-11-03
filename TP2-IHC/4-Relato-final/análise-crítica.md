@@ -49,5 +49,3 @@ Em suma, o trabalho evidencia que **Interação Humano-Computador e Inteligênci
 
 ---
 
-🧭 *Trabalho desenvolvido na disciplina de Interação Humano-Computador (IHC), Etapa 4 — Relato Final.*
-
