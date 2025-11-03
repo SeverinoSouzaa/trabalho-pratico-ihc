@@ -40,11 +40,27 @@ Foram utilizados cinco algoritmos principais: **ZeroR, OneR, J48, Naive Bayes e 
 - Previu todas as instâncias como “motivado”.  
 - Acertou apenas **60 de 200 instâncias**, resultando em **30% de acurácia**.  
 - Não considerou nenhum atributo preditor.
+```text
+=== Confusion Matrix ===
+a  b  c  d   <-- classified as
+0 50  0  0 |  a = feliz
+0 60  0  0 |  b = motivado
+0 45  0  0 |  c = neutro
+0 45  0  0 |  d = frustrado
+```
 
 #### 🔹 OneR
 - Utilizou apenas o atributo **trofeus_delta**.  
 - Acertou **199 de 200 instâncias**, com **99,5% de acurácia**.  
 - Errou **1 caso da classe “frustrado”**, previsto como “neutro”.
+```text
+=== Confusion Matrix ===
+a  b  c  d   <-- classified as
+50  0  0  0 |  a = feliz
+0 60  0  0 |  b = motivado
+0  0 45  0 |  c = neutro
+0  0  1 44 |  d = frustrado
+```
 
 ---
 
@@ -61,6 +77,14 @@ A classe-alvo foi criada com base direta no atributo **trofeus_delta**, o que si
 - A árvore gerada reproduziu fielmente as regras manuais baseadas em *trofeus_delta*.  
 - Isso confirma que a base possui **estrutura bem definida e altamente previsível.**  
 - O J48 foi tão eficaz quanto o OneR, mas oferece **maior interpretabilidade e estrutura lógica.**
+```text
+=== Confusion Matrix ===
+a  b  c  d   <-- classified as
+50  0  0  0 |  a = feliz
+0 60  0  0 |  b = motivado
+0  0 45  0 |  c = neutro
+0  0  1 44 |  d = frustrado
+```
 
 #### 🌳 Árvore Gerada
 <img width="2337" height="1335" alt="Design sem nome (2)" src="https://github.com/user-attachments/assets/2b5f0e2c-a80e-42c1-833e-10b7687aee70" />
@@ -78,6 +102,14 @@ A classe-alvo foi criada com base direta no atributo **trofeus_delta**, o que si
 - Errou 1 instância da classe *neutro* (classificada como *frustrado*).  
 - Utilizou todos os atributos, com boa separação entre classes.  
 - Leve confusão entre emoções próximas na escala de troféus.
+```text
+=== Confusion Matrix ===
+a  b  c  d   <-- classified as
+49  1  0  0 |  a = feliz
+0 60  0  0 |  b = motivado
+0  0 44  1 |  c = neutro
+0  0  0 45 |  d = frustrado
+```
 
 #### 🔹 IBk
 - **Acurácia:** 92% (184 acertos em 200).  
@@ -87,7 +119,14 @@ A classe-alvo foi criada com base direta no atributo **trofeus_delta**, o que si
 - Também errou 1 exemplo de *frustrado*, classificado como *neutro*.  
 - Classificador baseado em vizinhos, mais sensível à sobreposição entre classes.  
 - Resultado bom, mas inferior aos modelos baseados em regras.
-
+```text
+=== Confusion Matrix ===
+a  b  c  d   <-- classified as
+49  1  0  0 |  a = feliz
+0 56  4  0 |  b = motivado
+0  3 35  7 |  c = neutro
+0  0  1 44 |  d = frustrado
+```
 ---
 
 ## 3.3 Discussão Geral
