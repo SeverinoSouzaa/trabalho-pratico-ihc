@@ -28,6 +28,22 @@ O **Trabalho Prático 1 (TP1)** tem como objetivo **avaliar um sistema computaci
 
 ---
 
+### 🔹 TP2 – IHC e ML
+
+O **Trabalho Prático 2 (TP2)** tem como objetivo aplicar **técnicas de aprendizado supervisionado** na análise da **experiência emocional de usuários em jogos digitais**, dentro do contexto de **Interação Humano-Computador (IHC)**.  
+A proposta consiste em gerar uma **base de dados sintética**, explorar essa base na ferramenta **Weka** e realizar uma **interpretação crítica dos resultados obtidos**, considerando aspectos cognitivos e emocionais da interação.
+
+### Etapas principais
+- **Definição do Problema:** contextualização, objetivos, atributos e classe-alvo.  
+- **Geração da Base de Dados Sintética:** explicação da criação e regras de formação das instâncias.  
+- **Exploração e Classificação no Weka:** execução dos experimentos, algoritmos aplicados e resultados obtidos.  
+- **Relato Final:** análise crítica dos resultados e relação com o domínio de IHC.
+
+📂 **Acesse a pasta:** [TP2-IHC](./TP2-IHC)
+
+---
+
+
 ## 👥 Equipe
 
 | Código | Nome             |
