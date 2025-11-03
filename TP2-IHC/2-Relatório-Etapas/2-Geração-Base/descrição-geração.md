@@ -1,5 +1,5 @@
 # Etapa 2 — Geração da Base de Dados Sintética
-[🔗 Acesse a Base Sintética (.arff)](../../base_sintetica.arff)
+[🔗 Acesse a Base Sintética (.arff)](../../base_emocoes_clashroyale_v2_commented.arff)
 
 ## Introdução
 
