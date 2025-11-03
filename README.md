@@ -8,6 +8,7 @@ Aqui serão organizadas todas as entregas práticas da disciplina, garantindo **
 ## 📑 Sumário
 
 - [TP1 – Avaliação de Sistema](#tp1--avaliação-de-sistema)
+- [TP2 – IHC e ML](#tp2--ihc-e-ml)
 
 ---
 
@@ -28,7 +29,7 @@ O **Trabalho Prático 1 (TP1)** tem como objetivo **avaliar um sistema computaci
 
 ---
 
-### 🔹 TP2 – IHC e ML
+## 🔹 TP2 – IHC e ML
 
 O **Trabalho Prático 2 (TP2)** tem como objetivo aplicar **técnicas de aprendizado supervisionado** na análise da **experiência emocional de usuários em jogos digitais**, dentro do contexto de **Interação Humano-Computador (IHC)**.  
 A proposta consiste em gerar uma **base de dados sintética**, explorar essa base na ferramenta **Weka** e realizar uma **interpretação crítica dos resultados obtidos**, considerando aspectos cognitivos e emocionais da interação.
