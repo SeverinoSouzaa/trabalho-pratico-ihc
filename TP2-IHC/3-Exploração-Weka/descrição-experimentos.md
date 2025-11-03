@@ -46,10 +46,6 @@ Foram utilizados cinco algoritmos principais: **ZeroR, OneR, J48, Naive Bayes e 
 - Acertou **199 de 200 instâncias**, com **99,5% de acurácia**.  
 - Errou **1 caso da classe “frustrado”**, previsto como “neutro”.
 
-**Gráfico comparativo (Acurácia dos algoritmos):**
-
-![Gráfico de acurácia dos algoritmos ZeroR, OneR, J48, NaiveBayes e IBk](./algoritmos/acuracia_comparativo.png)`
-
 ---
 
 ### ⚙️ J48
@@ -67,7 +63,8 @@ A classe-alvo foi criada com base direta no atributo **trofeus_delta**, o que si
 - O J48 foi tão eficaz quanto o OneR, mas oferece **maior interpretabilidade e estrutura lógica.**
 
 #### 🌳 Árvore Gerada
-![Árvore gerada pelo J48 mostrando divisões baseadas em trofeus_delta](./algoritmos/j48_tree.png)`
+<img width="2337" height="1335" alt="Design sem nome (2)" src="https://github.com/user-attachments/assets/2b5f0e2c-a80e-42c1-833e-10b7687aee70" />
+
 
 > A árvore gerada pelo J48 revelou exatamente as regras utilizadas para gerar a classe-alvo, confirmando a capacidade do modelo em “descobrir” os padrões esperados.
 
