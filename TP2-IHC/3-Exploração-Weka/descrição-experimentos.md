@@ -6,7 +6,7 @@ Esta etapa apresenta a **análise de emoções no jogo Clash Royale** a partir d
 Os experimentos foram realizados no **Weka**, utilizando diferentes algoritmos de classificação supervisionada, para avaliar o desempenho na predição da variável **emocao_jogador**.
 
 A seguir, são descritas as observações obtidas na aba *Visualize* e, posteriormente, os resultados e interpretações de cada algoritmo testado.  
-Os detalhes técnicos de cada modelo podem ser consultados na pasta [`/algoritmos/`](./saídas-algoritmos.md).
+Os detalhes técnicos de cada modelo podem ser consultados na pasta [`/algoritmos/`](./resultados-algoritmos.md).
 
 ---
 
