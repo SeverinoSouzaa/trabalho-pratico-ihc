@@ -1,5 +1,6 @@
 # Etapa 2 — Geração da Base de Dados Sintética
-[🔗 Acesse a Base Sintética (.arff)](../../1-Base-Sintética)
+[🔗 Clique aqui para abrir a Base Sintética (.arff)](./base_sintetica.arff)
+
 
 ## Introdução
 
