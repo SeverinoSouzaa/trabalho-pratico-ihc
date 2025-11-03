@@ -70,7 +70,7 @@ Toda a alocação de atividades, carga horária de cada membro e registro detalh
 ## Estrutura da Organização
 
 - **Identificação dos Integrantes** (nome)  
-- **Lista de Tarefas** (T1 a T7, conforme etapas do trabalho)  
+- **Lista de Tarefas** (conforme etapas do trabalho)  
 - **Tabela de Distribuição** (carga horária por dia, preenchida no Notion)  
 
 ---
