@@ -40,6 +40,7 @@ Foram utilizados cinco algoritmos principais: **ZeroR, OneR, J48, Naive Bayes e 
 - Previu todas as instâncias como “motivado”.  
 - Acertou apenas **60 de 200 instâncias**, resultando em **30% de acurácia**.  
 - Não considerou nenhum atributo preditor.
+#### 🧮 Matriz de Confusão
 ```text
 === Confusion Matrix ===
 a  b  c  d   <-- classified as
@@ -53,6 +54,7 @@ a  b  c  d   <-- classified as
 - Utilizou apenas o atributo **trofeus_delta**.  
 - Acertou **199 de 200 instâncias**, com **99,5% de acurácia**.  
 - Errou **1 caso da classe “frustrado”**, previsto como “neutro”.
+#### 🧮 Matriz de Confusão
 ```text
 === Confusion Matrix ===
 a  b  c  d   <-- classified as
@@ -77,6 +79,7 @@ A classe-alvo foi criada com base direta no atributo **trofeus_delta**, o que si
 - A árvore gerada reproduziu fielmente as regras manuais baseadas em *trofeus_delta*.  
 - Isso confirma que a base possui **estrutura bem definida e altamente previsível.**  
 - O J48 foi tão eficaz quanto o OneR, mas oferece **maior interpretabilidade e estrutura lógica.**
+#### 🧮 Matriz de Confusão
 ```text
 === Confusion Matrix ===
 a  b  c  d   <-- classified as
@@ -102,6 +105,7 @@ a  b  c  d   <-- classified as
 - Errou 1 instância da classe *neutro* (classificada como *frustrado*).  
 - Utilizou todos os atributos, com boa separação entre classes.  
 - Leve confusão entre emoções próximas na escala de troféus.
+#### 🧮 Matriz de Confusão
 ```text
 === Confusion Matrix ===
 a  b  c  d   <-- classified as
@@ -119,6 +123,7 @@ a  b  c  d   <-- classified as
 - Também errou 1 exemplo de *frustrado*, classificado como *neutro*.  
 - Classificador baseado em vizinhos, mais sensível à sobreposição entre classes.  
 - Resultado bom, mas inferior aos modelos baseados em regras.
+#### 🧮 Matriz de Confusão
 ```text
 === Confusion Matrix ===
 a  b  c  d   <-- classified as
