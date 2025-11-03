@@ -23,7 +23,7 @@ O comportamento observado foi o seguinte:
 Essa relação confirma que o atributo `trofeus_delta` possui forte correlação com a emoção do jogador, reforçando a estrutura lógica usada para criar a classe-alvo.
 
 ### 🖼️ Print da Aba *Visualize*
-![Aba Visualize no Weka mostrando correlação entre troféus e emoções](./algoritmos/visualize.png)`
+<img width="1643" height="2285" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/eda89666-29fd-4896-92d5-2d3495a51de7" />
 
 ---
 
