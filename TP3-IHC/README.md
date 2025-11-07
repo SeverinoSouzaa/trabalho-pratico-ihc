@@ -7,4 +7,4 @@ Segue as seguintes etapas a serem apresentadas nessa etapa:
 - Design de Interação (processo de design por traduzir as intenções e objetivos do sistema em experiências concretas de uso)
 - Design de Interface (apresentar o design completo da interface do aplicativo proposto pela equipe)
 
-👉 Acesse a interface final aqui: [Design-IHC](./Design-IHC)
+👉 Acesse aqui: [Design-IHC](./Design-IHC)
