@@ -10,7 +10,7 @@ Ela serve como **fundamento direto** para a criação das Personas, Jornada do U
 ## 📌 Matriz CSD (Imagem)
 
 ![Imagem da Matriz CSD](https://github.com/user-attachments/assets/142e4890-5080-4c3b-80b1-5ec8f3e68412)
-![Imagem da Matriz CSD](https://github.com/user-attachments/assets/e8274f2e-6738-4009-854c-29f97223adac)
+![Imagem da Matriz CSD](https://github.com/user-attachments/assets/dc83e867-aa89-4c3e-9d3c-9b4248c4b93e)
 
 ---
 
