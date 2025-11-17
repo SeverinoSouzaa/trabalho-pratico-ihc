@@ -19,7 +19,8 @@ Essa priorização foi feita considerando:
 ## 📊 Imagem MoSCoW
 
 > **🖼️ Imagem MoSCoW produzida pela equipe:**  
-![Priorização com MoSCoW](https://github.com/user-attachments/assets/0757c7c8-5cf6-450f-a632-5e1ac80bbe81)
+![Priorização com MoSCoW](<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b119bfdd-5a3e-418f-9073-929cfa189679" />
+)
 
 ---
 
