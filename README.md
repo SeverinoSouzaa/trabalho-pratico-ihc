@@ -83,5 +83,5 @@ Toda a alocação de atividades, carga horária de cada membro e registro detalh
 
 Link para a apresentação oficial no Canva:
 
-[🔗 Acessar Apresentação ](https://www.canva.com/design/DAG3mFg_KgA/GRcb1BDHhM87GuxbWAOIuA/edit?utm_content=DAG3mFg_KgA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[🔗 Acessar Apresentação ](https://www.canva.com/design/DAG4zTEkFAg/E-cTDqvtzzHhyw5FsUTPcA/edit?utm_content=DAG4zTEkFAg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
