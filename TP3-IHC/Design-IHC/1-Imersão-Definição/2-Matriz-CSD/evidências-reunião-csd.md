@@ -7,7 +7,7 @@ Inclui registros da discussão/fotos da reunião.
 
 ## 📷 Evidências da Reunião
 
-![Evidência 1](./imagem1.png)
+![Evidência](https://github.com/user-attachments/assets/ddd6cda3-209e-44cf-a8c4-c2a222a763c3)
 
 
 ---
