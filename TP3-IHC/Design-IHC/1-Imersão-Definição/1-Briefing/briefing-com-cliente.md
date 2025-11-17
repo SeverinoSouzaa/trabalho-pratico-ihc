@@ -10,4 +10,5 @@ Possui formação técnica em **Computação Gráfica** e atualmente cursa **Sis
 Sua vivência diária com dezenas de turmas fornece uma visão completa das necessidades reais dos usuários e da equipe, sendo fundamental para definir o escopo da plataforma “Área do Formando”.
 
 ---
-![Uploading 01FUNCIONALIDADE ESPERADA Firefly Upscaler escala 2x.png…]()
+![Uploading FUNCIONALIDADE.jpg…]()
+
