@@ -9,6 +9,7 @@ Aqui serão organizadas todas as entregas práticas da disciplina, garantindo **
 
 - [TP1 – Avaliação de Sistema](#tp1--avaliação-de-sistema)
 - [TP2 – IHC e ML](#tp2--ihc-e-ml)
+- [TP3 – Design IHC](#tp3--design-ihc)
 
 ---
 
@@ -45,14 +46,13 @@ A proposta consiste em gerar uma **base de dados sintética**, explorar essa bas
 ---
 ## 🔹 TP3 – Design IHC
 
-O **Trabalho Prático 2 (TP2)** tem como objetivo aplicar **técnicas de aprendizado supervisionado** na análise da **experiência emocional de usuários em jogos digitais**, dentro do contexto de **Interação Humano-Computador (IHC)**.  
-A proposta consiste em gerar uma **base de dados sintética**, explorar essa base na ferramenta **Weka** e realizar uma **interpretação crítica dos resultados obtidos**, considerando aspectos cognitivos e emocionais da interação.
+Nessa etapa do trabalho está sendo apresentado os produtos finais a respeito do Design de IHC
 
-### Etapas principais
-- **Definição do Problema:** contextualização, objetivos, atributos e classe-alvo.  
-- **Geração da Base de Dados Sintética:** explicação da criação e regras de formação das instâncias.  
-- **Exploração e Classificação no Weka:** execução dos experimentos, algoritmos aplicados e resultados obtidos.  
-- **Relato Final:** análise crítica dos resultados e relação com o domínio de IHC.
+Segue as seguintes etapas a serem apresentadas nessa pasta:
+
+- Imersão (produto a ser construído deve atender a uma demanda real, identificada pela própria equipe junto a um cliente)
+- Design de Interação (processo de design por traduzir as intenções e objetivos do sistema em experiências concretas de uso)
+- Design de Interface (apresentar o design completo da interface do aplicativo proposto pela equipe)
 
 📂 **Acesse a pasta:** [TP3-IHC](./TP3-IHC)
 
