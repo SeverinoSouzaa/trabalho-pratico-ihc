@@ -17,13 +17,13 @@ Essas personas servirão de base para o desenvolvimento da Jornada do Usuário e
 
 ---
 
-## 👤 Persona 3 — Beatriz Lima (A Formanda com Baixa Visão)
+## 👤 Persona 2 — Beatriz Lima (A Formanda com Baixa Visão)
 
 ![Persona 3](https://github.com/user-attachments/assets/d3e038c8-ef97-41c2-b737-2b3f9f4c58b4)
 
 ---
 
-## 👤 Persona 4 — Carla Medeiros (Gestora da GRAL)
+## 👤 Persona 3 — Carla Medeiros (Gestora da GRAL)
 
 ![Persona 4](https://github.com/user-attachments/assets/2721b625-dc72-46a4-9c5d-d47079e854c4)
 
