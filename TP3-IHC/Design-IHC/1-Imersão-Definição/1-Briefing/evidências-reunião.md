@@ -7,7 +7,7 @@ Esta pasta contém a evidência obrigatória da reunião realizada com a cliente
 ![Foto da reunião](https://github.com/user-attachments/assets/d9e5bd37-b1b9-42b4-aba4-1041d2860bc8)
 
 Descrição:  
-> Registro da reunião oficial com a cliente, utilizada para coleta de requisitos. O rosto da participante foi desfocado ou coberto, conforme orientações do professor para preservação de identidade.
+> Registro da reunião oficial com a cliente, utilizada para coleta de requisitos. O rosto da participante foi desfocado ou coberto.
 
 ---
 
