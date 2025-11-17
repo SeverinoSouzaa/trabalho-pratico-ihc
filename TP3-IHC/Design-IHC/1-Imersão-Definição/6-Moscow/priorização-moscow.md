@@ -23,7 +23,7 @@ Essa priorização foi feita considerando:
 
 ---
 
-## ✔️ Considerações Gerais
+## Considerações Gerais
 
 A priorização obtida está alinhada com:
 
@@ -37,14 +37,6 @@ Essa organização permite um planejamento claro para as próximas etapas de des
 
 ---
 
-## 📁 Estrutura desta etapa
-
-- Explicação do método MoSCoW  
-- Relevância para o projeto  
-- Tabela de priorização (imagem adicionada pela equipe)  
-- Considerações finais  
-
----
 
 ## ✨ Observação Final
 
