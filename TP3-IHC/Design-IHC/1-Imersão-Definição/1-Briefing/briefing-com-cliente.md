@@ -10,4 +10,4 @@ Possui formação técnica em **Computação Gráfica** e atualmente cursa **Sis
 Sua vivência diária com dezenas de turmas fornece uma visão completa das necessidades reais dos usuários e da equipe, sendo fundamental para definir o escopo da plataforma “Área do Formando”.
 
 ---
-<img width="656" height="928" alt="FUNCIONALIDADE ESPERADA" src="https://github.com/user-attachments/assets/65147ba6-3285-4598-94ef-bb69ee703f91" />
+![Uploading 01FUNCIONALIDADE ESPERADA Firefly Upscaler escala 2x.png…]()
