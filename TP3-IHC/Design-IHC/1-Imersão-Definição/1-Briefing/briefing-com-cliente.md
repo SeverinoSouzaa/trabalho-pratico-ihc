@@ -42,7 +42,7 @@ Este alinhamento garantiu que toda a equipe tivesse a mesma visão sobre o siste
 
 ---
 
-## 📌 5. Imagem do Briefing (Resumo Estruturado)
+## 📌 4. Imagem do Briefing (Resumo Estruturado)
 
 
 ![Imagem Briefing com Cliente](https://github.com/user-attachments/assets/08ee9e0e-0a9e-4618-be44-0393685514e7)
