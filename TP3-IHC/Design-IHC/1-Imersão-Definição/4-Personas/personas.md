@@ -17,12 +17,6 @@ Essas personas servirão de base para o desenvolvimento da Jornada do Usuário e
 
 ---
 
-## 👤 Persona 2 — Márcia Oliveira (Responsável)
-
-![Persona 2](https://github.com/user-attachments/assets/27e95b0f-cd71-4b59-a45a-3c3b827a3c94)
-
----
-
 ## 👤 Persona 3 — Beatriz Lima (A Formanda com Baixa Visão)
 
 ![Persona 3](https://github.com/user-attachments/assets/d3e038c8-ef97-41c2-b737-2b3f9f4c58b4)
