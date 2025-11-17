@@ -23,7 +23,7 @@ Durante a reunião, foi realizado anotações detalhadas no Notion, registrando 
 Este link contém **todo o material bruto da reunião**, funcionando como evidência e também como consulta ampliada para compreensão aprofundada da demanda.
 
  **Acesso ao documento completo no Notion:**  
-🔗 [Clique aqui para acessar o Documento Completo da Reunião no Notion](https://www.notion.so/Apresenta-o-do-grupo-e-distribui-o-das-tarefas-27dfb754c1f6805ab03dd71f93a292d2?source=copy_link)
+🔗 [Clique aqui para acessar o Documento Completo da Reunião no Notion](https://www.notion.so/IHC-GRAL-2ac9dcf51f9580b1825edc050b0860e6?source=copy_link)
 
 
 ---
