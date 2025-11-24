@@ -146,6 +146,3 @@ O HTA Cadastrar Novo Produto apresenta as etapas necessárias para que a equipe 
 - Esse documento está preparado para ser usado junto com os mapas de objetivos e os diagramas MoLIC durante a apresentação e avaliação final.
 
 ---
-
-> *Este arquivo HTAs segue rigorosamente os requisitos do TP3 – Parte 2 (IHC / UFAM), de acordo com o PDF de instruções do professor.*
-
