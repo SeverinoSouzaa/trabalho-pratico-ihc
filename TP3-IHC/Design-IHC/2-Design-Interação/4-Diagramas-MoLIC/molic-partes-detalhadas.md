@@ -30,7 +30,9 @@ As partes abaixo seguem o mesmo recorte utilizado no arquivo visual enviado no G
 
 ### 📝 Descrição
 
-
+Mostra o fluxo de entrada no app GRAL.
+O usuário abre o app, informa dados de login (código da turma, CPF) e confirma.
+O sistema valida as informações: se estiver certo libera o painel; se der erro, direciona para recuperar acesso.
 
 ---
 
@@ -43,6 +45,10 @@ As partes abaixo seguem o mesmo recorte utilizado no arquivo visual enviado no G
 
 ### 📝 Descrição
 
+Fluxo onde o usuário envia os documentos exigidos para a formatura.
+Primeiro escolhe e envia a foto do quadro. Depois digita nome e sobrenome que irão no canudo.
+Em seguida revisa tudo, pode editar foto ou nome caso esteja errado e confirma o envio.
+O sistema salva os dados e finaliza.
 
 ---
 
@@ -55,7 +61,10 @@ As partes abaixo seguem o mesmo recorte utilizado no arquivo visual enviado no G
 
 ### 📝 Descrição
 
-
+Mostra como o usuário baixa mídias da plataforma.
+Ele acessa a área de arquivos, escolhe a pasta (fotos ou vídeos) e o sistema prepara os arquivos.
+Depois escolhe baixar por ZIP ou download direto, com acompanhamento de progresso.
+Se houver falha ao carregar ou baixar, pode tentar de novo.
 
 ---
 
@@ -66,7 +75,10 @@ As partes abaixo seguem o mesmo recorte utilizado no arquivo visual enviado no G
 
 ### 📝 Descrição
 
-
+Fluxo financeiro do aluno dentro do app.
+O usuário abre a situação financeira, visualiza mensalidades pagas e pendentes.
+Se tiver pendências, escolhe forma de pagamento (Pix ou cartão), o sistema valida saldo/crédito, processa e confirma o pagamento.
+Ao final gera e disponibiliza comprovante.
 
 ---
 
@@ -77,7 +89,10 @@ As partes abaixo seguem o mesmo recorte utilizado no arquivo visual enviado no G
 
 ### 📝 Descrição
 
-
+Representa o processo de compra na loja do sistema.
+O usuário abre a lista de produtos, navega/filtra, seleciona um item e acessa informações.
+Depois configura variação e quantidade e adiciona ao carrinho.
+Se configuração estiver inválida, corrige antes de concluir.
 
 ---
 
@@ -91,6 +106,12 @@ As partes abaixo seguem o mesmo recorte utilizado no arquivo visual enviado no G
 ### 📝 Descrição
 
 
+Fluxo de gerenciamento de calendário.
+O usuário abre o calendário e pode escolher criar um evento novo ou editar um existente.
+No caso de criar: informa título, data/horário e descrição opcional, depois salva.
+No caso de atualizar: seleciona evento, edita dados e salva alterações.
+Inclui validação de erro (campos inválidos ou conflito de horário).
+
 ---
 
 # 🔷 Visualizar pendências financeiras da turma
@@ -102,7 +123,10 @@ As partes abaixo seguem o mesmo recorte utilizado no arquivo visual enviado no G
 
 ### 📝 Descrição
 
-
+Fluxo do responsável/ADM para consultar finanças por turma.
+Ele acessa o módulo, visualiza lista de turmas e o status geral (pendente/ok/parcial).
+Depois seleciona uma turma específica e abre pendências e pagamentos daquela turma.
+Os dois caminhos convergem na finalização com resumo e saída.
 
 ---
 
@@ -110,7 +134,10 @@ As partes abaixo seguem o mesmo recorte utilizado no arquivo visual enviado no G
 
 <img width="2625" height="5505" alt="Cadastrar novos produtos na loja  drawio" src="https://github.com/user-attachments/assets/e8894aea-6bb5-4642-be2d-3a123bcc114e" />
 
-
+Fluxo do administrador cadastrando produtos.
+O ADM acessa o módulo, preenche nome, descrição, imagens, preço e estoque.
+O sistema valida os dados; se algo estiver errado, volta para corrigir.
+Depois revisa, confirma e o produto é registrado no catálogo com sucesso.
 ---
 
 ### 📝 Descrição
