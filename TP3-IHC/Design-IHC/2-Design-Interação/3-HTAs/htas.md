@@ -54,7 +54,7 @@ O HTA Baixar Fotos e Vídeos descreve o processo em que o usuário acessa a áre
 
 ---
 
-## 🧭 HTA 4 — Abrir Situação Financeira
+## 🧭 HTA 4 — Acompanhar pagamentos, mensalidades e situação financeira
 
 ### Objetivo correspondente  
 <img width="522" height="384" alt="image" src="https://github.com/user-attachments/assets/778e7c7a-d8ad-49e7-992f-e7859c113862" />
