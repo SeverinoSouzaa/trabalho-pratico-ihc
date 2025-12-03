@@ -1,6 +1,6 @@
-# 🎨 Mural de Inspiração
+# Mural de Inspiração
 
-## 📱 Mural
+##  Mural
 ![WhatsApp Image 2025-12-02 at 23 55 44](https://github.com/user-attachments/assets/d15a1655-3e80-4684-a500-b536bd6da764)
 
 ---
