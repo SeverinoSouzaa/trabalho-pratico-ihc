@@ -13,7 +13,7 @@ O mural reúne referências que seguem um estilo **dark premium**, bastante util
 Além disso:
 
 - O dark mode reduz distrações e ajuda a destacar informações essenciais, como eventos da formatura ou pagamentos.
-- A paleta vibrante (**laranja, roxo, rosa**) traz energia e dinamismo, mantendo o app atraente para o público jovem.
+- A paleta vibrante (**laranja, azul, verde e vermelho**) traz energia e dinamismo, mantendo o app atraente para o público jovem.
 - A estética geral cria um clima que mistura **seriedade** com **modernidade**, alinhado ao contexto do GRAL.
 
 ---
@@ -33,7 +33,7 @@ O mural foi construído para transmitir sensações essenciais ao GRAL, como:
 
 - **Confiança** — tons escuros e organização visual reforçam credibilidade.
 - **Organização** — dashboards e listas indicam estrutura clara.
-- **Acolhimento** — ilustrações e cores suaves tornam o app mais humano.
+- **inovaçao** — design elegante e tech.
 - **Pertencimento** — estética jovem se conecta ao universo dos formandos.
 - **Motivação** — cores vibrantes e layouts dinâmicos criam engajamento.
 
