@@ -1,10 +1,10 @@
-# 🎨 Mural de Inspiração
+# Mural de Inspiração
 
 O Mural de Inspiração tem como objetivo reunir referências visuais que orientem o estilo, o clima e a identidade estética do aplicativo GRAL. Essas imagens servem como base conceitual para a criação da interface, ajudando a definir cores, formas, estilos gráficos e a atmosfera que queremos transmitir ao usuário. A partir desse mural, é possível alinhar expectativas, garantir unidade visual e estabelecer uma direção clara para o design final do sistema.
 
 ---
 
-# 📱 Mural 
+# Mural 
 ![Mural de Inspiração](https://github.com/user-attachments/assets/109ab190-1c4d-402d-a997-efdb06c9234d)
 
 ## 1. Estilo Visual e Clima do Aplicativo
@@ -63,6 +63,6 @@ O mural ajuda a:
 
 ---
 
-# 🎯 Conclusão
+# Conclusão
 
 O mural de inspiração estabelece a base estética e conceitual do GRAL, orientando todas as decisões visuais que compõem o design da interface. A partir das referências selecionadas, foi possível definir um estilo moderno, organizado e adequado ao público jovem, garantindo uma experiência clara, envolvente e consistente. Esse material servirá como guia para toda a etapa de design da interface, assegurando alinhamento entre identidade visual, usabilidade e propósito do aplicativo.
