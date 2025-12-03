@@ -77,7 +77,7 @@ Transparência total sobre os custos e parcelas da formatura.
 
 * **Descrição:**
     * Apresentação clara de valores: "Total pago" vs. "Pendente".
-    * * Métodos de pagamento (Pix, Cartão) são facilmente selecionáveis.
+    * Métodos de pagamento (Pix, Cartão) são facilmente selecionáveis.
     * O histórico utiliza códigos de cores (Verde para "Pago", Vermelho/Laranja para "Pendente") para reduzir a carga cognitiva. O usuário não precisa lembrar o que pagou; o sistema mostra visualmente.
   
 ---
