@@ -10,8 +10,7 @@ Esse vínculo aproxima o visual do app da realidade dos formandos e reforça o p
 
 ## Paleta de Cores
 
-<img width="905" height="241" alt="image" src="https://github.com/user-attachments/assets/0c754cfd-08d6-453c-8d6c-21e4576a32d6" />
-
+<img width="1930" height="540" alt="Image" src="https://github.com/user-attachments/assets/9778a8dd-1310-4c2a-8248-b1b8c11205f2" />
 
 ---
 
