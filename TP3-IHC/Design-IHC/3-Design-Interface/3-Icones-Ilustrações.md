@@ -1,4 +1,4 @@
-# Ícones e Ilustrações — Explicação Baseada nas Telas do GRAL
+# Ícones e Ilustrações
 
 Os ícones utilizados no GRAL seguem um estilo *outline* arredondado, com cor principal em laranja, reforçando a identidade visual do app e garantindo boa leitura sobre o fundo escuro. Todos possuem a mesma espessura de linha e a mesma proporção, mantendo consistência e evitando ruído visual entre as telas. A seguir apresenta-se o conjunto de ícones utilizados e suas respectivas justificativas de uso e comunicabilidade.
 
