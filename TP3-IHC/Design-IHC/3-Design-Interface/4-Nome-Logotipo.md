@@ -45,21 +45,6 @@ Dessa forma, a marca GRAL equilibra emoção (celebração da formatura) e funci
 
 ---
 
-## 4. Cor, Forma e Tipografia como Expressão da Proposta
-A combinação dos elementos visuais reforça a proposta central do aplicativo:
-
-- **Cor:**  
-  As cores escolhidas criam um contraste elegante e marcante que simboliza tanto a solenidade do rito de passagem quanto a energia da celebração. Os tons utilizados refletem maturidade, confiança e vitalidade.
-
-- **Forma:**  
-  As formas geométricas se unem em harmonia, simbolizando o processo colaborativo entre estudantes e comissão de formatura. As interseções representam consenso e tomada de decisões coletivas — aspectos diretamente relacionados às funcionalidades do app.
-
-- **Tipografia:**  
-  A tipografia serifada, com traços firmes e tradicionais, remete à formalidade acadêmica e transmite credibilidade. A fonte reforça a ideia de tradição e solenidade, afinal, trata-se de um evento marcante na vida dos estudantes.
-
-Em conjunto, esses elementos visualmente comunicam que a GRAL é uma plataforma confiável, elegante e preparada para gerenciar todas as etapas de uma formatura com organização, clareza e identidade marcante.
-
----
 
 ## Considerações Finais
 A construção do nome e logotipo da GRAL foi guiada pela necessidade de representar visualmente a missão e os valores do aplicativo. A identidade desenvolvida traduz profissionalismo, celebração, tradição acadêmica e organização — aspectos essenciais em um sistema focado em acompanhar e gerenciar um dos momentos mais importantes da trajetória estudantil: a formatura.
