@@ -4,17 +4,15 @@ Nesta etapa apresentamos o **design final da interface** do aplicativo GRAL, jun
 
 ## Coerência Visual e Identidade
 
-Para garantir uma consistência sólida em todas as telas, aplicamos rigorosamente o guia de estilos definido anteriormente. A imagem abaixo demonstra a unificação da paleta de cores (com tons escuros e acentos em laranja/verde para contraste), a tipografia escolhida para legibilidade e o conjunto de ícones que orientam a navegação, culminando em uma amostra da interface final.
+Para garantir uma consistência sólida em todas as telas, aplicamos rigorosamente o guia de estilos definido anteriormente. A imagem abaixo demonstra a unificação da paleta de cores, a tipografia escolhida para legibilidade e a Logo do aplicativo, culminando em uma amostra da interface final.
 
 <img width="1346" height="755" alt="image" src="https://github.com/user-attachments/assets/063c4444-c1ce-4dc0-8490-daf98aee9add" />
-
-> *A aplicação dos estilos visuais garante que o usuário reconheça a marca e entenda o estado do sistema através das cores e formas.*
 
 ---
 
 ## Detalhamento das Telas e Fluxos
 
-Abaixo, apresentamos as telas principais do sistema, destacando as escolhas de design, heurísticas de usabilidade aplicadas e recursos de acessibilidade.
+Abaixo, apresentamos as telas principais do sistema, destacando as escolhas de design e recursos de acessibilidade.
 
 ### 1. Fluxo de Login e Recuperação de Acesso
 Este fluxo foca na entrada segura e na facilidade de recuperação de conta, prevenindo erros do usuário.
