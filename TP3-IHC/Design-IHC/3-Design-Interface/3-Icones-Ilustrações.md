@@ -6,8 +6,7 @@ Os ícones utilizados no GRAL seguem um estilo *outline* arredondado, com cor pr
 
 ## Imagem dos Ícones Utilizados  
 <!-- Insira aqui a imagem contendo todos os ícones -->
-![Ícones do GRAL](https://github.com/user-attachments/assets/24168177-bfcd-43d3-9fd0-0b818b146952)
-
+<img width="678" height="408" alt="Image" src="https://github.com/user-attachments/assets/96751058-09d0-4cb1-bf26-2f54a66557e7" />
 
 
 ---
