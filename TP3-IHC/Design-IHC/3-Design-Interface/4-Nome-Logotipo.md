@@ -34,14 +34,18 @@ As cores vibrantes aplicadas na logo comunicam energia, celebração e dinamismo
 ## 3. Conceito Semântico da Identidade
 A identidade visual carrega significados alinhados à missão da GRAL: **facilitar, organizar e valorizar o processo de formatura**. Cada elemento foi pensado para reforçar simbolicamente o propósito do aplicativo:
 
-- **Formas geométricas sobrepostas** representam a união de diversas partes que formam um evento de formatura: alunos, comissão, fornecedores, pagamentos, contratos, datas e decisões.
+- **Formas geométricas sobrepostas** representam a união de diversas partes que formam um evento de formatura como alunos
 - **O círculo central** transmite continuidade e ciclo, remetendo ao encerramento de uma etapa acadêmica.
 - **O triângulo superior**, evocando o capelo, simboliza conquista, saber e cerimônia.
 - **O ponto destacado ao lado da composição** sugere foco, precisão e destaque — remetendo ao papel do app em guiar e centralizar tudo o que é importante no processo.
 - **As cores quentes (laranja e vermelho)** comunicam celebração, entusiasmo e realização.
 - **As cores frias (azul e verde-petróleo)** evocam confiança, estabilidade e profissionalismo.
 
-Dessa forma, a marca GRAL equilibra emoção (celebração da formatura) e funcionalidade (gestão organizada).
+<img width="1241" height="391" alt="image" src="https://github.com/user-attachments/assets/64beffdf-33b0-45d3-98f9-37df3f016439" />
+
+
+
+Dessa forma, a marca GRAL equilibra emoção (celebração da formatura) e funcionalidade (gestão organizada)
 
 ---
 
