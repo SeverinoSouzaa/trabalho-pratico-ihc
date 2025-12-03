@@ -16,8 +16,7 @@ Abaixo, apresentamos as telas principais do sistema, destacando as escolhas de d
 ### 1. Fluxo de Login e Recuperação de Acesso
 Este fluxo foca na entrada segura e na facilidade de recuperação de conta, prevenindo erros do usuário.
 
-<img width="1347" height="757" alt="image" src="https://github.com/user-attachments/assets/61d93139-8310-4eea-bc1c-1d7699e37dba" />
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d4a522fa-40ca-462e-896e-5027a4dd29af" />
 
 * **Descrição:**
     * **Tela de Login:** Utiliza máscaras de input (ex: formatação automática de CPF) para prevenir erros de digitação. O botão de ação primária "Confirmar Login" possui destaque visual claro.
@@ -27,8 +26,7 @@ Este fluxo foca na entrada segura e na facilidade de recuperação de conta, pre
 ### 2. Dashboard (Tela Principal)
 O hub central do aplicativo, projetado para dar ao usuário uma visão geral imediata de sua situação.
 
-<img width="408" height="678" alt="image" src="https://github.com/user-attachments/assets/81a20d21-fb68-48c7-9abc-47d60c159fe5" />
-
+<img width="408" height="678" alt="Image" src="https://github.com/user-attachments/assets/47ce0ef9-9573-473a-a53f-8623ce338a69" />
 
 * **Descrição:**
     * A tela apresenta uma saudação personalizada ("Olá, formando(a)!") e *widgets* de acesso rápido para as funcionalidades mais críticas: Próximos Eventos, Status de Pagamentos e Checklist.
