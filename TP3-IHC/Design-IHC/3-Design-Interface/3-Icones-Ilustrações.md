@@ -6,7 +6,8 @@ Os ícones utilizados no GRAL seguem um estilo *outline* arredondado, com cor pr
 
 ## Imagem dos Ícones Utilizados  
 <!-- Insira aqui a imagem contendo todos os ícones -->
-<img width="1920" height="1080" alt="Design sem nome (2)" src="https://github.com/user-attachments/assets/f4180ab4-01b9-4b10-b7e4-9602d89176ed" />
+![Ícones do GRAL](https://github.com/user-attachments/assets/24168177-bfcd-43d3-9fd0-0b818b146952)
+
 
 
 ---
@@ -27,18 +28,18 @@ Os ícones utilizados no GRAL seguem um estilo *outline* arredondado, com cor pr
 
 ---
 
-## 3. Ícone de Copiar / Duplicar
-- **Onde aparece:** ações secundárias.  
-- **Significado:** copiar informações.  
-- **Comunicabilidade:** transmite duplicação de forma imediata.  
-- **Motivo da escolha:** agiliza processos sem explicações adicionais.
+## 3. Ícone de Copiar (Código PIX)
+- **Onde aparece:** fluxo de pagamento via PIX.  
+- **Significado:** copiar o código PIX para a área de transferência.  
+- **Comunicabilidade:** o símbolo de dois quadrados sobrepostos é reconhecido como “copiar”.  
+- **Motivo da escolha:** facilita a cópia do código sem exigir leitura de instruções e evita erros de digitação.
 
 ---
 
 ## 4. Ícone de Download
 - **Onde aparece:** baixar comprovantes.  
 - **Significado:** salvar arquivo no dispositivo.  
-- **Comunicabilidade:** símbolo universal de download.  
+- **Comunicabilidade:** símbolo universal de download (seta para baixo sobre base).  
 - **Motivo da escolha:** reforça o destino do arquivo baixado.
 
 ---
@@ -77,7 +78,7 @@ Os ícones utilizados no GRAL seguem um estilo *outline* arredondado, com cor pr
 
 ## 9. Ícone de Check / Confirmação
 - **Onde aparece:** checklist, presença confirmada.  
-- **Significado:** tarefa concluída.  
+- **Significado:** tarefa concluída ou status positivo.  
 - **Comunicabilidade:** feedback imediato.  
 - **Motivo da escolha:** reduz necessidade de texto adicional.
 
@@ -86,7 +87,7 @@ Os ícones utilizados no GRAL seguem um estilo *outline* arredondado, com cor pr
 ## 10. Ícone de Notificações (Sino)
 - **Onde aparece:** cabeçalho do dashboard.  
 - **Significado:** avisos e notificações.  
-- **Comunicabilidade:** sino é símbolo universal de alertas.  
+- **Comunicabilidade:** sino é símbolo universal de alertas; o ponto/badge reforça novas notificações.  
 - **Motivo da escolha:** destaca pendências importantes.
 
 ---
@@ -120,6 +121,14 @@ Os ícones utilizados no GRAL seguem um estilo *outline* arredondado, com cor pr
 - **Significado:** retornar à tela anterior.  
 - **Comunicabilidade:** símbolo reconhecido de navegação.  
 - **Motivo da escolha:** reforça fluxo simples e previsível.
+
+---
+
+## 15. Ícone de Fechar (X)
+- **Onde aparece:** modais e janelas flutuantes (ex.: acessibilidade, filtros, etc.).  
+- **Significado:** fechar o componente atual ou cancelar a visualização.  
+- **Comunicabilidade:** o “X” é amplamente entendido como ação de fechar/encerrar.  
+- **Motivo da escolha:** permite que o usuário abandone rapidamente um modal sem impacto no restante da tela.
 
 ---
 
