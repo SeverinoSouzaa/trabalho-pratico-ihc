@@ -6,7 +6,8 @@ Nesta etapa apresentamos o **design final da interface** do aplicativo GRAL, jun
 
 Para garantir uma consistência sólida em todas as telas, aplicamos rigorosamente o guia de estilos definido anteriormente. A imagem abaixo demonstra a unificação da paleta de cores (com tons escuros e acentos em laranja/verde para contraste), a tipografia escolhida para legibilidade e o conjunto de ícones que orientam a navegação, culminando em uma amostra da interface final.
 
-![Consolidação da Identidade Visual e Style Guide](insira_aqui_o_caminho_para_sua_imagem_com_paleta_fontes_logo_e_tela_exemplo.png)
+<img width="1346" height="755" alt="image" src="https://github.com/user-attachments/assets/063c4444-c1ce-4dc0-8490-daf98aee9add" />
+
 > *A aplicação dos estilos visuais garante que o usuário reconheça a marca e entenda o estado do sistema através das cores e formas.*
 
 ---
