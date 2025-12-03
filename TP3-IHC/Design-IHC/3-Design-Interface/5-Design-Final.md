@@ -6,8 +6,7 @@ Nesta etapa apresentamos o **design final da interface** do aplicativo GRAL, jun
 
 Para garantir uma consistência sólida em todas as telas, aplicamos rigorosamente o guia de estilos definido anteriormente. A imagem abaixo demonstra a unificação da paleta de cores, a tipografia escolhida para legibilidade e a Logo do aplicativo, culminando em uma amostra da interface final.
 
-<img width="1346" height="755" alt="image" src="https://github.com/user-attachments/assets/063c4444-c1ce-4dc0-8490-daf98aee9add" />
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b07135c1-2bbc-4dab-947e-cc304570a641" />
 ---
 
 ## Detalhamento das Telas e Fluxos
