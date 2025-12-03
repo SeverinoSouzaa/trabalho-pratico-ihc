@@ -1,4 +1,4 @@
-# 1. Nome e Logotipo
+# Nome e Logotipo
 
 ## Introdução
 Nesta etapa apresentamos o **nome** e o **logotipo oficial** do aplicativo **GRAL**, compondo a base da identidade visual do produto. Conforme solicitado, descrevemos o conceito visual e semântico por trás da marca, explicitando como **cor, forma e tipografia** reforçam a proposta central do sistema, que está diretamente ligado à organização, gestão e celebração de formaturas.
