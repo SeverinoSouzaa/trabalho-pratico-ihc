@@ -1,4 +1,4 @@
-# 5. Microinterações e Protótipo Navegável
+# Microinterações e Protótipo Navegável
 
 Esta seção apresenta a demonstração prática da interface do aplicativo **GRAL** em funcionamento. O vídeo abaixo ilustra o fluxo de navegação contínuo, destacando as **microinterações** projetadas para fornecer *feedback* imediato ao usuário (como estados de clique, carregamento e confirmação) e garantir uma transição suave entre as tarefas.
 
@@ -6,13 +6,13 @@ O objetivo desta visualização é demonstrar a "sensação de uso" (*look and f
 
 ---
 
-### 🎥 Demonstração de Uso
+### Demonstração de Uso
 
 Clique na imagem abaixo para assistir ao vídeo da interação:
 
 [![Assistir ao vídeo do App GRAL](https://img.youtube.com/vi/lPTpgO6Bycc/maxresdefault.jpg)](https://youtu.be/lPTpgO6Bycc)
 
-> **Caso a imagem não carregue, acesse pelo link direto:** [https://youtu.be/lPTpgO6Bycc](https://youtu.be/lPTpgO6Bycc)
+> **Ou acesse pelo link direto:** [https://youtu.be/lPTpgO6Bycc](https://youtu.be/lPTpgO6Bycc)
 
 ---
 
